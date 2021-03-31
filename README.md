@@ -1,1 +1,1 @@
-# IMS
+# This is a simple application that only read and writes to a database. No objects are created apart from the a single "SimpleApp" object. I used a postgres SQL database so you'll need to use the same to run this application. 
